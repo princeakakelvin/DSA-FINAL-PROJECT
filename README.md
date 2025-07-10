@@ -1,7 +1,7 @@
 ## Project Overview
 Palmoria Group, a leading Nigerian manufacturing company, is facing scrutiny over gender inequality, pay gaps, and compliance with new salary regulations. As an HR Analytics expert, I was tasked to analyze the company’s HR data, uncover key insights, and provide actionable recommendations to management.
 
-Objective: Address gender-related issues, salary structure, pay gap, and bonus allocation across regions and departments.
+##### Objective: Address gender-related issues, salary structure, pay gap, and bonus allocation across regions and departments.
 ###### Tools Used: Power BI (data cleaning, main analysis and dashboard), GitHub (documentation).
 
 ### Data Cleaning Steps
