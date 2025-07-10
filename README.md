@@ -25,15 +25,18 @@ Palmoria Group, a leading Nigerian manufacturing company, is facing scrutiny ove
 
  - Joined employee data with bonus rules on Department and Rating to assign correct bonus percentages.
 
-###### Calculated Bonus and Total Pay:
+###### Calculated Bonus and Total Pay: Using DAX
 
- - Bonus Amount = Salary × Bonus %
+ - Bonus Amount = Salary × Bonus % [<img width="1013" height="724" alt="Bonus Amount" src="https://github.com/user-attachments/assets/1c1fffd2-43ea-458c-8e83-b2ca456d1c06" />
+]
 
- - Total Pay = Salary + Bonus Amount
+ - Total Pay = Salary + Bonus Amount [<img width="1012" height="703" alt="total salary" src="https://github.com/user-attachments/assets/be5d0e0c-4efc-4d73-ac5a-8e21e87918e0" />
+]
 
 ###### Created Salary Bands:
 
- - Grouped salaries into $10,000 bands for compliance and distribution analysis.
+ - Grouped salaries into $10,000 bands for compliance and distribution analysis. [<img width="1124" height="693" alt="salary band" src="https://github.com/user-attachments/assets/0555b98e-f94a-4e98-aad3-a1dbdd4ecdab" />
+]
 
 ## Analysis & Visualizations
 ### Key Business Questions & Methods
