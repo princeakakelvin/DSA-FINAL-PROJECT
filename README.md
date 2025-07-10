@@ -41,12 +41,12 @@ Palmoria Group, a leading Nigerian manufacturing company, is facing scrutiny ove
 ## Analysis & Visualizations
 ### Key Business Questions & Methods
 ###### Question	Method/Visual
-   1. What is the gender distribution (overall, by region, by department)?	Donut/Bar/Stacked Bar Chart
-   2. What are the rating distributions by gender?	Stacked Bar/Matrix
-   3. Is there a gender pay gap? By department/region?	Box Plot/Bar/Matrix
-   4. Does Palmoria meet the $90,000 minimum salary regulation?	KPI Card/Bar Chart
-   5. What is the pay distribution by $10,000 bands and by region?	Stacked Bar/Column Chart
-   6. Calculate and visualize bonus allocation (individual, region, company-wide)	Table/Matrix/KPI/Bar Chart
+   1. What is the gender distribution (overall, by region, by department)?	
+   2. What are the rating distributions by gender?	
+   3. Is there a gender pay gap? By department/region?
+   4. Does Palmoria meet the $90,000 minimum salary regulation?
+   5. What is the pay distribution by $10,000 bands and by region?
+   6. Calculate and visualize bonus allocation
 ## Key Insights
  - Gender Distribution: [e.g., 60% Male, 35% Female, 5% Undisclosed overall; breakdown by region/department]
 
