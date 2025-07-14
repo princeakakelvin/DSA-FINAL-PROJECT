@@ -4,6 +4,10 @@ Palmoria Group, a leading Nigerian manufacturing company, is facing scrutiny ove
 ##### Objective: Address gender-related issues, salary structure, pay gap, and bonus allocation across regions and departments.
 ###### Tools Used: Power BI (data cleaning, main analysis and dashboard), GitHub (documentation).
 
+## Data
+####Raw Data []
+
+
 ### Data Cleaning Steps
 ###### Removed Ex-Employees:
 
@@ -48,21 +52,27 @@ Palmoria Group, a leading Nigerian manufacturing company, is facing scrutiny ove
    5. What is the pay distribution by $10,000 bands and by region?
    6. Calculate and visualize bonus allocation
 ## Key Insights
- - Gender Distribution: [e.g., 60% Male, 35% Female, 5% Undisclosed overall; breakdown by region/department]
+ - Gender Distribution: [<img width="726" height="385" alt="Screenshot 2025-07-15 001349" src="https://github.com/user-attachments/assets/69c45a4a-f532-4874-81d1-1c29e0500218" />
+]
 
- - Ratings by Gender: [e.g., Female employees in Lagos have higher average ratings]
+ - Ratings by Gender: [<img width="740" height="423" alt="Screenshot 2025-07-15 000514" src="https://github.com/user-attachments/assets/d8491500-b451-4a07-9df3-784c4714f856" />
+]
 
- - Gender Pay Gap: [e.g., Pay gap exists in Department X and Region Y]
+ - Gender Pay Gap: [<img width="504" height="301" alt="Screenshot 2025-07-15 000801" src="https://github.com/user-attachments/assets/64252867-e2cb-4c6b-9892-3967fd2f97da" />
+]
 
- - Minimum Salary Compliance: [e.g., 97% meet $90,000 minimum; 3% below threshold]
+ - Minimum Salary Compliance: [More than 50% of the employees did not meet the 90,000 threshold]
 
- - Salary Bands: [e.g., Most employees in $90,000–$100,000 band; visualized by region]
+ - Salary Bands: [Most employees in $90,000–$100,000 band; <img width="756" height="436" alt="Screenshot 2025-07-15 001717" src="https://github.com/user-attachments/assets/e3dc846f-0db9-4a69-932a-f4ab8c401bc7" />
+]
 
- - Bonus Payouts: [e.g., Total company bonus payout: $X; highest in Lagos region]
+ - Bonus Payouts: [Total company bonus payout highest in Kaduna region <img width="782" height="448" alt="Screenshot 2025-07-15 002458" src="https://github.com/user-attachments/assets/2b2b1a44-4c2c-4ca2-a0a1-a3bd3034881a" />
+]
 
 
 ## Dashboard Preview
-()
+(<img width="775" height="441" alt="palmoria dashboard" src="https://github.com/user-attachments/assets/c4cd1554-38c4-458c-8733-6294e7a8fecf" />
+)
 
 ## Recommendations
 Address gender pay gaps in highlighted departments and regions.
