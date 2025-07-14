@@ -6,8 +6,10 @@ Palmoria Group, a leading Nigerian manufacturing company, is facing scrutiny ove
 
 ## Data
 #### Main Analysis [https://github.com/princeakakelvin/Palmorial-HR-Group-Analysis/blob/main/Aka_Kelvin_%20Palmoria_Gruop_HR-Analysis.pbix]
+
 ##### Raw Data [https://github.com/princeakakelvin/Palmorial-HR-Group-Analysis/blob/main/Palmoria%20Group%20Bonus%20Rules.csv]
-               []
+               [https://github.com/princeakakelvin/Palmorial-HR-Group-Analysis/blob/main/Palmoria%20Group%20emp-data%20csv.csv]
+               
 ### Data Cleaning Steps
 ###### Removed Ex-Employees:
 
