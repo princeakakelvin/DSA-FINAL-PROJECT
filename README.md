@@ -5,8 +5,8 @@ Palmoria Group, a leading Nigerian manufacturing company, is facing scrutiny ove
 ###### Tools Used: Power BI (data cleaning, main analysis and dashboard), GitHub (documentation).
 
 ## Data
-####Raw Data []
-
+#### Main Analysis [https://github.com/princeakakelvin/Palmorial-HR-Group-Analysis/blob/main/Aka_Kelvin_%20Palmoria_Gruop_HR-Analysis.pbix]
+##### Raw Data []
 
 ### Data Cleaning Steps
 ###### Removed Ex-Employees:
